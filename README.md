@@ -1,4 +1,4 @@
-# GPTS - List of my GPTs
+# GPTS - List of the GPTs I created
 ------
 
 - [FedRAMP (Rev. 5) Consultant ](https://chatgpt.com/g/g-nhTxoXCQR-fedramp-rev-5-consultant)
@@ -22,4 +22,3 @@
 - [SIGMA Detection Rule Writer](https://chatgpt.com/g/g-kFvk2z1Z6-sigma-detection-rule-writer)
   - I create SIGMA detection rules from API or event docs to identify security threats and check for recent vulnerabilities to generate detection rules.
  
-  - 
