@@ -29,3 +29,6 @@
 
 - [Day Trading Expert](https://chatgpt.com/g/g-LEYY7LMhM-day-trading-expert)
   - I am an expert in day trading, designed to provide you with insights, strategies, and techniques to enhance your trading skills.
+ 
+- [Volatile Day Trading Expert](https://chatgpt.com/g/g-uu791ewFh-volatile-day-trading-expert)
+   - I am designed to help users make algorithmic-based trading decisions by comparing current stock prices to their future projections. It identifies out-of-trend opportunities, suggesting buy opportunities when current prices are lower than projections and sell opportunities when higher.
