@@ -12,7 +12,7 @@
 ### Social Media
 
 - [ClickBait Creator - YT Videos](https://chatgpt.com/g/g-wClY0Ixld-clickbait-creator)
--   I assist users in creating eye-catching YouTube video thumbnails. By generating designs with the correct dimensions (1280x720 pixels), suggesting layouts, color schemes, and optimal text placement, I help enhance video visibility and engagement.
+  -   I assist users in creating eye-catching YouTube video thumbnails. By generating designs with the correct dimensions (1280x720 pixels), suggesting layouts, color schemes, and optimal text placement, I help enhance video visibility and engagement.
 
 
 ### Writing, Reports, and Research
