@@ -1,13 +1,18 @@
 # GPTS - List of the GPTs I created
 ------
 
-
 ### Trading Stocks and Finance
 
 - [Day Trading Expert](https://chatgpt.com/g/g-LEYY7LMhM-day-trading-expert)
   - I am an expert in day trading, designed to provide you with insights, strategies, and techniques to enhance your trading skills.
 - [Volatile Day Trading Expert](https://chatgpt.com/g/g-uu791ewFh-volatile-day-trading-expert)
    - I am designed to help users make algorithmic-based trading decisions by comparing current stock prices to their future projections. It identifies out-of-trend opportunities, suggesting buy opportunities when current prices are lower than projections and sell opportunities when higher.
+
+
+### Social Media
+
+- [ClickBait Creator - YT Videos](https://chatgpt.com/g/g-wClY0Ixld-clickbait-creator)
+-   I assist users in creating eye-catching YouTube video thumbnails. By generating designs with the correct dimensions (1280x720 pixels), suggesting layouts, color schemes, and optimal text placement, I help enhance video visibility and engagement.
 
 
 ### Writing, Reports, and Research
